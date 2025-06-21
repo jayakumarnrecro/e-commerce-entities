@@ -3,8 +3,6 @@ package org.example.evaluations.evaluation.services;
 import org.example.evaluations.evaluation.models.Category;
 import org.example.evaluations.evaluation.repos.CategoryRepo;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.domain.PageRequest;
-import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

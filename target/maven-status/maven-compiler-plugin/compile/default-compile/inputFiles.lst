@@ -1,0 +1,15 @@
+/home/jay/Documents/Personal/scaler/e-commerce-entities/src/main/java/org/example/evaluations/EvaluationsApplication.java
+/home/jay/Documents/Personal/scaler/e-commerce-entities/src/main/java/org/example/evaluations/evaluation/CustomStatementInspector.java
+/home/jay/Documents/Personal/scaler/e-commerce-entities/src/main/java/org/example/evaluations/evaluation/config/DataInitializer.java
+/home/jay/Documents/Personal/scaler/e-commerce-entities/src/main/java/org/example/evaluations/evaluation/controllers/TestController.java
+/home/jay/Documents/Personal/scaler/e-commerce-entities/src/main/java/org/example/evaluations/evaluation/models/BaseModel.java
+/home/jay/Documents/Personal/scaler/e-commerce-entities/src/main/java/org/example/evaluations/evaluation/models/Category.java
+/home/jay/Documents/Personal/scaler/e-commerce-entities/src/main/java/org/example/evaluations/evaluation/models/Image.java
+/home/jay/Documents/Personal/scaler/e-commerce-entities/src/main/java/org/example/evaluations/evaluation/models/Product.java
+/home/jay/Documents/Personal/scaler/e-commerce-entities/src/main/java/org/example/evaluations/evaluation/models/State.java
+/home/jay/Documents/Personal/scaler/e-commerce-entities/src/main/java/org/example/evaluations/evaluation/models/SubCategory.java
+/home/jay/Documents/Personal/scaler/e-commerce-entities/src/main/java/org/example/evaluations/evaluation/repos/CategoryRepo.java
+/home/jay/Documents/Personal/scaler/e-commerce-entities/src/main/java/org/example/evaluations/evaluation/repos/ImageRepo.java
+/home/jay/Documents/Personal/scaler/e-commerce-entities/src/main/java/org/example/evaluations/evaluation/repos/ProductRepo.java
+/home/jay/Documents/Personal/scaler/e-commerce-entities/src/main/java/org/example/evaluations/evaluation/repos/SubCategoryRepo.java
+/home/jay/Documents/Personal/scaler/e-commerce-entities/src/main/java/org/example/evaluations/evaluation/services/CategoryService.java

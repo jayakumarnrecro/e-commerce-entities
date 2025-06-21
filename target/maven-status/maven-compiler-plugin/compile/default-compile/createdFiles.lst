@@ -1,0 +1,15 @@
+org/example/evaluations/evaluation/CustomStatementInspector.class
+org/example/evaluations/evaluation/models/BaseModel.class
+org/example/evaluations/evaluation/services/CategoryService.class
+org/example/evaluations/evaluation/models/Product.class
+org/example/evaluations/evaluation/controllers/TestController.class
+org/example/evaluations/evaluation/repos/ImageRepo.class
+org/example/evaluations/evaluation/repos/SubCategoryRepo.class
+org/example/evaluations/evaluation/models/Image.class
+org/example/evaluations/evaluation/repos/CategoryRepo.class
+org/example/evaluations/evaluation/repos/ProductRepo.class
+org/example/evaluations/EvaluationsApplication.class
+org/example/evaluations/evaluation/models/State.class
+org/example/evaluations/evaluation/config/DataInitializer.class
+org/example/evaluations/evaluation/models/SubCategory.class
+org/example/evaluations/evaluation/models/Category.class
